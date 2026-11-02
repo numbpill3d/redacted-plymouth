@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=redacted
+Description=Monochrome black boot: a censored face under static, an on-screen display, censor-block progress
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/redacted
+ScriptFile=/usr/share/plymouth/themes/redacted/redacted.script
